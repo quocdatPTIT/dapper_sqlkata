@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tranq\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tranq\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_dapperCRUD.1488866840.00" t="ExcludeRecursive" />
+    <e p="F:\dotnet_core\dapper\dapperCRUD" t="IncludeFlat">
+      <e p="dapperCRUD" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ProductController.cs" t="Include" />
+          <e p="ProductTypeController.cs" t="Include" />
+        </e>
+        <e p="dapperCRUD.csproj" t="IncludeRecursive" />
+        <e p="DatabaseConnection" t="Include">
+          <e p="IDatabaseConnectionFactory.cs" t="Include" />
+          <e p="SqlConnectionFactory.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ProductModel.cs" t="Include" />
+          <e p="ProductTypeCreateModel.cs" t="Include" />
+          <e p="ProductTypeModel.cs" t="Include" />
+          <e p="ProductTypeResponse.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="dapperCRUD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Query" t="Include">
+          <e p="IProductQuery.cs" t="Include" />
+          <e p="IProductTypeQuery.cs" t="Include" />
+          <e p="ProductQuery.cs" t="Include" />
+          <e p="ProductTypeQuery.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="dapperCRUD.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
